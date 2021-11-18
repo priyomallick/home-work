@@ -1,0 +1,137 @@
+.hello{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+.mallick{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: tomato;
+}
+.bd{
+    color: rgb(65, 55, 55);
+}
+.li{
+    color: red;
+    margin-bottom: 7%;
+}
+.first-section{
+    height: 450px;
+    
+}
+.first{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+}
+.first img{
+    width: 100%;
+}
+.buttom{
+    text-decoration: none;
+    padding-left: 10px;
+    padding: 10px 10px;
+    background-color: tomato;
+    color: white;
+    border-radius: 5px;
+}
+.second-section{
+    height: 450px;
+    
+}
+.last span{
+    color: red;
+}
+.third-section{
+    height: 600px;
+    
+    background-image: url("2.jpg");
+}
+.last{
+    text-align: center;
+    margin-top: 7%;
+    
+}
+.ab{
+    font-size: 30px;
+    font-family: cursive;
+   
+}
+.pic{
+    width: 28%;
+    float: left;
+    padding: 20px;
+    margin-left: 20px;
+    background-color: gray;
+    border-radius: 10px;
+    margin-top: 7%;
+    
+}
+.pic img{
+    width: 100%;
+}
+.fourth-section{
+    height: 550px;
+    background-image: url("images.png");
+    
+}
+
+#ste{
+    margin-left: 10%;
+}
+.w{
+    font-size: 40px;
+    color: rgb(245, 229, 4);
+    
+    
+}
+#all{
+    border: rgb(204, 24, 24) solid 2px;
+    padding-left: 5px;
+    margin: 3px;
+    border-radius: 10px;
+    margin-top: 5%;
+    margin-bottom: 7%;
+}
+#song-buttom{
+    margin-left: 40%;
+    
+}
+.final{
+    text-align: center;
+    margin-top: 6%;
+}
+.fifth-section{
+height: 200px;
+border: 1px solid white;
+margin-bottom: 10%;
+background-image: url("1.png");
+background-position: center;
+background-size: 900px;
+background-repeat: no-repeat;
+margin-top: 10%;
+}
+.fifth-section img{
+
+}
+.footer{
+    text-align: center;
+}
+.sixth-section{
+    height: 100px;
+    
+}
+.picture{
+    margin-left: 40%;
+    margin-top: 5%;
+   
+   
+}
+.picture img{
+    width: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+
+}
+.gmail{
+    font-size: 40px;
+}
